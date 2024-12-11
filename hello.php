@@ -1,7 +1,1 @@
-<?php
-
- /*addcontrol from server(apps name-ServerAdds)*/
- 
-  echo "ShowAdd";
- 
-?>
+Banking Diploma AIBB eXAM VERY SOON
