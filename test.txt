@@ -1,0 +1,79 @@
+Jcenter issue on using meowbottomnavigation
+Asked 2 years, 7 months ago
+Modified 12 days ago
+Viewed 832 times
+ Part of Mobile Development Collective
+1
+
+my first time developing an app but i immediately had a problem.
+
+i was trying to add a "Meow Bottom Navigation" on my app but the problem is youtube tutorials always have this JCENTER repository but when i searched it has been shutdown already. i know nothing about these kind of things (repositories)
+
+a. any tips on what to do regarding with this jcenter issue? b. does jcenter being shutdown means i can no longer use meow bottom navigation on my project?
+
+(i hope you understand my english, lol)
+
+androidandroid-studiorepositoryuinavigationbar
+Share
+Improve this question
+Follow
+asked Apr 19, 2022 at 12:24
+John Basìlio's user avatar
+John Basìlio
+1322 bronze badges
+Add a comment
+3 Answers
+Sorted by:
+
+Highest score (default)
+1
+
+What happened to JCenter?
+JCenter was a popular repository for Android libraries, but it was shut down, so any libraries that only existed there are no longer available for direct use through the usual dependency lines (e.g., implementation("com.etebarian:meow-bottom-navigation:1.3.1")).
+
+Solution: Use the .aar file directly
+You can still use the Meow Bottom Navigation library by manually adding its .aar file to your project. Here’s how to do it:
+
+Download the .aar file:
+
+Download the AAR file for Meow Bottom Navigation from TomTom's repository.
+Add the .aar file to your project:
+
+Place the .aar file into a folder named libs inside your app directory. (If libs doesn’t exist, create it.)
+Configure Gradle to recognize the .aar file:
+
+Open build.gradle (App Level) and add the .aar file as a dependency like this:
+
+dependencies {
+    implementation(files("libs/meow-bottom-navigation-1.3.1.aar"))
+}
+Update settings.gradle to include the libs directory:
+
+Open settings.gradle and add the flatDir repository so Gradle knows where to find the .aar file. Your settings.gradle should look like this:
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        flatDir {
+            dirs("app/libs")  // Path to the `libs` folder
+        }
+    }
+}
+
+rootProject.name = "YourAppName"
+include(":app")
+Sync the project:
+
+Click Sync Now in Android Studio to load the changes.
+After syncing, you should be able to use Meow Bottom Navigation without any issues, even though JCenter is no longer available.
+
+Good luck!
