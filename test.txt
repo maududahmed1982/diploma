@@ -1,1 +1,3 @@
-i was trying to add a "Meow Bottom Navigation" on my app but the problem is youtube tutorials always have this JCENTER repository but when i searched it has been shutdown already. i know nothing about these kind of things (repositories)
+
+What happened to JCenter?
+JCenter was a popular repository for Android libraries, but it was shut down, so any libraries that only existed there are no longer available for direct use through the usual dependency lines 
