@@ -1,2 +1,1 @@
-What happened to JCenter?
-JCenter was a popular repository for Android libraries, but it was shut down, so any libraries that only existed there are no longer available for direct use through the usual dependency lines 
+Making preparation on 100th Banking Diploma Examination.
