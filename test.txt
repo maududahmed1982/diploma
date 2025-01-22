@@ -1,1 +1,441 @@
 Making preparation on 100th Banking Diploma Examination.
+MODULE D:
+
+Q. Describe different types of letter of credit (L/C).
+
+Types of Letters of Credit:
+
+1. Clean Letter of Credit: 
+A clean letter of credit does not specify the documents of title to goods or terms and conditions to be complied with before effecting payment. In such cases goods are sent directly to the importer (buyer) and payment is made without the production of financial documents.
+
+It is not safe for a bank to establish such a type of letter of credit as neither the goods nor the documents of title to goods come into the possession of the bank and the bank issuing a clean letter of credit may suffer a loss if the applicant fails to make the payment. Such types of letters of credit could only be established where both parties, that is, the importer and exporter, are of undoubted integrity.
+
+
+2. Revocable Letter of Credit:
+The terms and conditions of revocable LC can be amended or cancelled by the Issuing Bank. This cancellation can be done without prior notice to the beneficiaries.
+All letters of credit issued by banks are irrevocable unless specifically mentioned as revocable. A revocable letter of credit can be amended or canceled by the issuing bank at any moment and without prior notice or notification to the beneficiary.
+
+3. Irrevocable Letter of Credit:
+An irrevocable letter of credit cannot be amended or canceled without the agreement of the applicant, issuing bank, confirming bank (if a letter of credit has been confirmed) and beneficiary (UCP 600 Article No. 10).
+An irrevocable credit is a credit, the terms and conditions of which cannot be canceled or modified without consent of the beneficiary. Hence, commitments given in the LC are bounded by the openingbank. Almost all letters of credit now are irrevocable, because revocable letters of credit simply do not provide the security that most beneficiaries want. [SN- BDE-95th|
+
+4.Revolving Credit:
+A Revolving Letter of Credit (RLC) is a financial tool used in international trade for frequent shipments between the same buyer (importer) and seller (exporter) over a predefined period. Unlike a regular letter
+of credit, an RLC is reusable up to a total limit and automatically replenishes itself after each successful withdrawal.
+
+5.Transferable Letter of Credit:
+This type of credit allows the beneficiary to transfer all or part of the credit to another party. It is particularly useful in complex trade transactions where multiple suppliers are involved.
+
+6.Confirmed Letter of Credit:
+In a confirmed letter of credit, a second bank (confirming bank) adds its own guarantee to that of the issuing bank. This provides an additional layer of security for the beneficiary, especially when dealing with unfamiliar or less creditworthy banks.
+
+
+ 7.Back to lack L/C:
+ Back-to-Back Letter of Credit is a negotiable instrument in which the seller gets a Letter of Credit from the      buyer and the seller further transfers the Letter of Credit to its supplier.
+
+In simple words, the seller first gets the Letter of Credit from the buyer to ensure timely payment and further the same seller hands over the Letter of Credit to someone from whom he buys goods or materials.
+This letter of credit is opened when an exporter receives a letter of credit from a foreign buyer, and the exporter needed for required raw materials and accessories to manufacture the ordered product.
+
+In a back to back letter of credit,a seller who is also a buyer arranges for a new credit using first letter of credit received. This allow the intermediary seller to use the original credit as collateral to secure a new credit for purchasing goods from another party.
+
+Example: Scenario:
+Company A (Importer):
+ A US-based company wants to buy furniture from Company B (Exporter): a Vietnamese manufacturer.
+
+Company C (Intermediary):
+ A Singapore-based trading company acts as a middleman between A and B.
+Company A applies for a Letter of Credit (LC) from their bank (Bank A) in favor of Company C. This LC guarantces payment to Company C upon fulfilling specific conditions, such as presenting documents proving shipment of the fumiture.
+Company C uses the LC from Bank A as collateral to approach their bank (Bank C) and request a second LC.
+This second LC, caled a back-to-back LC, is issued by Bank C in favor of Company B(the Exporter).
+
+8.Red Clause Letter of Credit:
+This type of credit includes a special clause (usually written in red ink) that allows the advising or confirming bank to make a partial or full payment to the beneficiary before the actual shipment of goods.
+
+
+*** Distinguish between letter of Credit and Back to Back Letter of Credit.
+Letter of Credit
+ Back Letter of Credit
+A Letter of Credit is a document issued by the importer's bank to the exporter's bank that guarantees the exporter full remission of the export amount.
+In a back to back letter of credit,a seller who is also a buyer arranges for a new credit using first letter of credit received. This allow the intermediary seller to use the original credit as collateral to secure a new credit for purchasing goods from another party.
+In this the issuing bank is located in the country of the importer and the negotiating a bank is located in the country of the exporter.
+In this the issuing bank is located in the country of the exporter and the negotiating bank is located in the country from which the goods are imported.
+This includes status of the importer, type of import of goods and whether there are any restrictions, various legal documents required at the time of issuance of L/C.
+Bank to bank L/C is opened by lien on the original L/C only after the test number is written on the original L/C.
+ In this, after dispatch of the goods as per L/C, all checks are made as mentioned in the case of payment.
+In this case the main exporter (importer at this point) does not need immediate financing as the negotiating bank supplies the goods on loan.
+The product price of general L/C is determined according to the terms of the contract and based on the invoice price.
+
+
+In case of Back to Bank L/C the amount of L/C shall never exceed 70% to 80% of the original letter of credit.
+In this case the risk is relatively low. And
+it is often possible to adjust it by negotiation
+with the parties.
+The risk is high. Because it guarantees the fulfillment of the terms of the original L/C and payment of dues in return. As a result, there is a lot of confusion if the said tasks are not performed.
+
+
+
+Q. Distinguish between Back to Back LC and Transferable LC. BDE-92th.
+June-2020, 2017
+1. A transferable letter of credit is a type of financial lending instrument where the primary beneficiary can add a secondary beneficiary who is paid the amount either partially or in full. The issuing bank has to designate such an LC as transferable at the time of issuing it. Only then can the beneficiary transfer the credit to a third party. There is only one LC involved in this process.
+In the case of a back to back LLC, the LC is issued by the bank against the primary LC, which acts as collateral. There are two separate LCs involved in the process- Primary LC and back to back LC.
+
+2. In a transferable credit the ultimate buyer is aware that he is dealing with a middleman whereas in back to back he would not know.
+
+3. In a transferable credit the middleman and his bankers are not liable for the performance of the second beneficiary whereas in a back-to-back credit the middleman is applicant and beneficiary the first credit and the bank, as the issuing bank (for second LC) remain liable.
+
+4. In a transferable LC middleman only gets "profit" and no debit is made to his account and hence no impact on his cash flow whereas in Back-to-Back LC the middleman is applicant and beneficiary of first credit and the hence the transaction will move through his account.
+
+Transferable L/C
+Back-to-Back L/C
+Involves one credit
+Involves two separate credits
+Credit only transferable at the applicant's
+request
+Credit may be used as security to create a back-
+to-back credit without the knowledge of the applicant of prime L/C
+Subject specifically to UCP. 600 Art. 38
+No specific article of UCP 600
+
+
+
+Q. Distinguish between Foreign Documentary Bill of Purchase (FDBP) and
+Foreign Documentary Bill of Collection (FDBC). BDE-95th
+
+Foreign Documentary Bill of Collection (FDBC): Exporter can collect the bill through negotiating bank on the basic collection, exporter in this case submit all the documents to the negotiating bank for collection of bill from inspector. The exporter will get money only when the issuing bank gives payment. In this connection bank will scrutinize all the documents as per terms and conditions mentioned in L/C.
+
+Foreign Documentary Bill of Purchase (FDBP): When the exporter sale all the export documents to the negotiating bank then it is known as FDBP. In this case exporter will submit all the documents to the bank. The bank gives 60%-80% amount to the exporter against total L/C value.
+Here are seven distinguishing features between Foreign Documentary Bill of Purchase (FDBP) and Foreign Documentary Bill of Collection (FDBC):
+
+1. Financing Nature: FDBP is a credit facility where the bank provides financing to the importer,
+whereas FDBC is a payment arrangement where the bank does not provide any financing to the
+importer.
+
+2. Payment Responsibility: In FDBP, the bank makes the payment to the exporter on behalf of the importer, while in FDBC, the importer is directly responsible for making the payment to the collecting bank.
+
+3. Risk Allocation: In FDBP, the bank assumes the risk of non-payment by the importer, whereas in FDBC, the risk of non-payment rests with the exporter.
+
+4. Ownership of Documents: Under FDBP, the bank takes ownership of the export documents until the importer repays the loan. In contrast, under FDBC, the exporter retains control of the shipping documents until payment is received.
+
+5. Financing Terms: FDBP involves specific financing terms, such as interest rates, repayment periods, and other conditions, which are agreed upon between the bank and the importer. FDBC does not involve any financing terms since no funds are provided by the bank.
+
+6. Payment Timing: In FDBP, the bank makes the payment to the exporter upon presentation of the shipping documents. In FDBC, payment is made by the importer directly to the collecting bank before obtaining the shipping documents.
+
+7. Legal Actions: In case of non-payment in FDBP, the bank can take legal action against the importer to recover the outstanding amount. In FDBC, if the importer fails to make the payment,the exporter may withhold the shipping documents, preventing the importation of the goods.
+
+FDBP
+FDBP stands for 'Foreign Documentary Bills Purchase'. This facility is provided to negotiate (purchase) Foreign Documentary bills/documents submitted by the exporter on export made against export L/C denominated in Foreign Currency.
+Features
+1.​This is a demand loan
+2.This is a mode of export finance
+3.All specific FDBP and each FDBP created under a revolving limit are demand loan by nature
+4.The documents/bills have to be in order as per export L/C terms
+5.Cash drawing allowed under FDBP after adjustment of BTB L/C, PC, and other liabilities associated to the particular export
+6.Usually has no fixed tenure but maximum tenure may be allowed is 21 days for sight L/C and as per stipulated usance period for usance (DP) L/C
+7.Rate of interest: In case of Sight L/C, interest not applicable for 21 days and in case of usance (DP) L/C, interest not applicable for the usance/deferral period. Usually bank earns from exchange rate difference. But in case of overdue, interest will be charged in commercial rate
+FDBP facility is allowed to the customer to negotiate/purchase foreign documentary export bills drawn under valid Export L/C. On the other hand, LDBP facility is allowed to negotiate/purchase Inland/local Documentary bills duly accepted for payment by scheduled Banks in Bangladesh.
+
+
+
+
+
+
+
+M:E TFFE-Chapter 7 Int. Trade Finance
+
+Q. Distinguish between funded and non-funded products in trade finance?
+
+Here are 8 key differences between funded and non-funded products in trade finance:
+1. Nature of Financing: The primary difference between funded and non-funded products is the nature of the financing. Funded products provide actual funds to the borrower, while non-funded products provide a guarantee or credit enhancement.
+
+2. Risk: Funded products carry more risk for the lender, as they are actually providing funds to the borrower, whereas non-funded products transfer some of the risk to the borrower, as they are responsible for fulfilling the terms and conditions of the financing.
+
+3. Repayment: Funded products require repayment of the principal amount plus interest, while non-funded products do not require repayment of funds, but instead require the borrower to fulfill certain conditions.
+
+4. Cost: Funded products usually carry higher costs than non-funded products, as lenders are assuming a greater risk and providing actual funds. Non-funded products, on the other hand, are typically less costly, as they provide only a guarantee or credit enhancement.
+
+5. Availability: Funded products are not always readily available, as lenders may require collateral or other forms of security before providing funding. Non-funded products, on the other hand, are generally more readily available, as they do not require actual funds to be provided.
+
+6. Flexibility: Funded products may offer more flexibility to the borrower in terms of the amount and duration of funding, as well as the repayment terms. Non-funded products may be less flexible, as they are based on specific conditions and requirements.
+
+7. Usage: Funded products are typically used for working capital financing or investment in fixed assets, while non-funded products are typically used for trade finance, such as for import/export transactions or to provide security for a loan.
+
+8. Regulation: Funded products may be subject to more regulation than non-funded products, as they involve the actual provision of funds. Non-funded products, on the other hand, may be subject to less regulation, as they involve only a guarantee or credit enhancement.
+
+9. Examples(Import and export) financing:
+Funded:
+*Payment against documents(PAD)
+*LIM(Loan against imported merchandise)
+*LTR(Loan against Trust Receipt)
+*IBP/LDBP(Local bill purchase)
+*FBP/FDBP(Foreign bill Purchase)
+*PC(Packing Credit)
+*Export Cash  Credit (ECC)
+*FL(Forced Loan)
+Non-funded:
+1.All types of LC(BTB LC(Foreign/Local LC,
+LC for EDF etc.))
+2.All types of guarantee(Bid Bond, Performance Bond,Advance payment Guarantee)
+
+
+Q-27. Distinguish between Pre-Shipment Finance and Post-Shipment Finance. BPE-96th
+Here's a table outlining the key differences between pre-shipment finance and post-shipment finance:
+Differences
+Pre-Shipment Finance
+Post-Shipment Finance
+Definition
+Financing provided to exporters
+before the shipment of goods.
+Financing provided to exporters after the shipment of goods.
+Purpose
+To meet working capital needs during production, processing,
+the packaging stages.
+To bridge the gap between shipment and receipt of payment.
+Timing
+Provided before the shipment of goods.
+
+
+Provided after the shipment of goods.
+It is also called Post-delivery Financing
+
+
+Coverage
+Covers expenses such as raw
+materials, labor, packaging, and
+transportation costs.
+Covers expenses during the period between shipment and payment receipt.
+Forms
+Packing credit, export credit.
+Export bill discounting, export factoring.
+Repayment
+Typically repaid from the proceeds of post-shipment finance or sale of
+goods.
+Repayment made when the payment is
+received from the importer.
+Cash Flow
+management
+Helps manage cash flow during the pre-shipment stage.
+Helps manage cash flow during the post-
+shipment stage.
+Risk
+Associated with the production and
+export process.
+Associated with delayed payment or
+non-payment by the buyer.
+Benefit
+Enables exporters to fulfill export
+orders without cash flow constraints.
+Provides funds to meet ongoing
+expenses and fulfill new orders while
+awaiting payment.
+
+
+ Q. Briefly des cribe the types of credit facilities offered by the banks for financing imports into Bangladesh. ldentify the risks associated with the credit facilities given to the importers. What are the precautions to be taken by the banks to avert the risks associated with import financing?
+June-19, Dec-17,11
+Or, Briefly discuss the various types of post-shipment import finance provided by the banks to the importers. ldentify the risks associated with loans granted to the importers against Trust Receipt and how these risks can be mitigated. Dec-12
+Or, Briefly discuss the types of credit facilities provided by the banks to the importers at the post-shipment stage. Identify the risks associated with the credit facilities provided under LIM and LTR and the measures that can be taken to reduce those risks. Dec-13
+Or, Briefly discuss the types of credit facilities offered by banks to the importers. Identify the risks associated with the credit facilities given to the importers under LIM and LTR and the measures that can be taken to reduce these risks. BDE-92th, Dec-15
+Or, Briefly discuss the advantages and disadvantages of financing imports under LTR. What are the risks associated with LTR and the steps a bank should take to avoid these risks? Dec-10
+
+Ans:Banks provide various credit facilities to importers at both the pre-shipment and post-shipment stages to support their trade transactions. Here are sonme common types of credit facilities provided by banks to importers at each stage:
+
+Pre-shipment Credit Facilities:
+
+ 1. Letter of Credit:
+A Letter of Credit is a document issued by the importer's bank to the exporter's bank that guarantees the exporter full remission of the export Amount.
+If the buyer  is unable to make such a payment, the bank covers the full or the remaining amount on behalf of the buyer.
+
+2. Packing Credit:
+Packing Credit is a form of pre-shipment finance provided to exporters to help them meet the working capital requirements associated with the processing, manufacturing, and packing of goods before they are shipped. This type of short-term credit is essential for covering various expenses incurred during the pre-shipment phase of international trade.
+This loan is provided before the shipment of goods and is usually secured by the export order or the Letter of Credit (LC) from the importer's customer.
+
+3. Export Bills Purchase/Discounting: 
+Banks can purchase export bills or discount them for importers against the shípment of goods. The importer can receive immediate payment, and the bank takes on the responsibility of collecting payment from the importer's customer.
+
+4. Bank Guarantee:
+Importers can obtain a bank guarantee from a bank to guarantee their performance of contractual obligations with their suppliers or buyers. This guarantee is issued by the bank on behalf of the importer and assures the supplier or buyer that payment will be made as per the terms of the agreement.
+
+5. Import Cash Credit (ICC):
+This loan is provided for importing industrial raw materials. The maximum period allowed is one year. The Bank takes sufficient collaterals for ICC.
+
+Post-shipment Credit Facilities:
+1. Bill Discounting:
+Banks can purchase the importer's post-shipment export bills at a discount,providing finance to the importer against the discounted value of the bills.
+
+2. Export Bills Negotiation : 
+Banks can provide finance to importers by negotiating export bills that have already been accepted by the buyer. The bank pays the importer the value of the export bill less a discount or fee, which is typically based on the creditworthiness of the buyer.
+
+3. Export Bills Collection: 
+Banks can collect payment for export bills on behalf of the importer.This can be done through a variety of methods, including direct collection, collection under LC,or collection through a correspondent bank.
+
+4. Post-shipment Advance:
+Banks can provide post-shipment advance to importers based on the security of the shipping documents. The importer may require additional finance after the goods have been shipped to cover expenses such as storage or transportation costs.Loan against Trust Receipt (LATR): Banks provide this type of loan to the acceptable, reliable clients who have good track of business record. The LC is opened by a margin. After receiving the import Documents at the request of the client the bank extends the LATR. The PAD is adjusted by a new Loan LATR, Normally the LATR is allowed for 90 to 180 days. The goods are kept in the custody of the importer.
+
+6. Loan against Imported Merchandise (LIM):
+Banks provide this type of loan to the Importer against trading items by keeping the imported goods in the Bank' warehouse or Bank's controlled warehouse. This is a very short-term loan, normally sanctioned for maximum 90 days.The Goods are cleared by the Bank's own C&F Agent and directly stored in Bank's warehouse. The bank issues Delivery Order (DO) against receipt of payment of merchandise. The importer can release the goods in parts. The interest is charged quarterly. When the Customer does not come up to clear the goods, then the bank creates forced LIM and adjusts import costs by selling the goods in open auction.
+
+LIM may be created in two ways:
+a) LIM on importer's request
+b) Forced LIM
+
+a) LIM on importer's request:
+In some cases, the importer can't able to retire the bill by hís own source of fund, he may request the bank to clear the goods by creating LIM Account,
+b)Forced LIM:
+In some cases, importer do not come forward to retire the goods. In these cases,the bank themselves arrange to retire the goods by pledge in Godown under bank's lock & key.
+This type of payment is called forced LIM.
+
+ln conclusion, banks offer a range of credit facilities to importers to support their trade transactíons ot both the pre-shipment and post-shipment stages. Importers can choose the most suitable facilíty based on their specific requirements and creditworthiness.
+
+>Risk associated with import finance:
+1 Some importers do not receive required insurance documents against the imported goods. As a result, Bank faces difficulties for collecting payments from insurance company if any goods damages.
+
+2.Customer can try to establish letter of credit for importing restricted goods.
+
+3.Sometimes, importer release goods after due date because of his financial crisis. As a result, Bank faces problem for bill retirement.
+
+4. Some dishonest importer does not make due payment to the Bank after releasing goods against Trust Receipt.
+
+5. In some cases, importer release or receive goods from godown by making illegal relationship with godown guard without making sufficient deposit or no deposit.
+
+6. There may be attempts to establish letters of credit in collusion with foreign sellers by forging false import registration documents and other documents.
+
+7.Customer can try to establish L/C for import of prohibited goods.
+
+8.Banks may face complications by setting up letter of credit without registering the L/C form by mistake.
+
+9.Banks may face failure to collect dues in case of product damage due to non-obtaining required insurance.
+
+10. As a result of setting up letters of credit without collecting any credit report on the integrity and reputation of the foreign supplier, they sometimes receive money from the negotiating bank by submitting false shipping documents. But later the said shipping turned out to be bogus and both the importer and the bank suffered losses as the goods did not arrive in the country.
+
+11. Due to demand or decrease in price of imported products or increase in the cost of clearing the goods, sometimes the importer refrains from clearing the import bill by paying the dues. In this situation, the bank faces problems with imported goods. In many cases, the bank has to bear the burden of losses by selling goods short.
+
+12. Importer may fail to clear goods cleared under AAM due to fall in demand or price of goods. As a result the bank faced problems.
+
+13.Many a times, due to the financial solvency of the importer, delaying the retirement of bills or the release of goods creates additional problems for the bank.
+
+14.Many unscrupulous traders evade payment of bank dues by redeeming imported goods, auet trust receipts.
+15. Sometimes, with the connivance of the warehouse keeper of the bank, the imnporter harms the interest of the bank by not depositing any amount or taking goods more than the amount deposited.
+
+Some suggestions/precautionary measures for reducing risk in import finance:
+Reducing risk in import finance is crucial for ensuring smooth and secure international,transactions. Here are some suggestions and precautionary measures to consider:
+
+1. Thorough Due Diligence: 
+Conduct a comprehensive evaluation of the potential foreign  suppliers or exporters before engaging in any inport transaction. Verify their credental financial stability, reputation, and track record. Use reliable sources of information such as credit reports, trade directories, and references from trusted business partners.
+2, Clear Contractual Agreements:
+Establish clear and detailed contractual agreements with the foreign suppliers or exporters. Ensure that all terms and conditions, including pricing. payment terms, delivery schedules, quality standards, and dispute resolution mechanisms, are clearly defined and agreed upon by both parties. It is advisable to seek legal advice and have well-drafted contracts in place.
+3. Verify Product Quality: Prioritize product quality assurance by conducting inspections.obtaining samples, or requesting product certifications and test reports. Consider usingindependent inspection agencies or engaging third-party quality control services to verify the goods' quality and conformity to the agreed specifications before shipment.
+4. Secure Payment Methods : Choose secure payment methods that offer protection for import finance. Consider options such as Letters of Credit (LCs), where payment is guaranteed upon  compliance with specified terms and conditions. LCs provide a level of assurance to importers  by ensuring that payment is made only when the necessary documents are presented.
+
+5. Documentary Compliance: Pay close attention to the documentation process and ensure strict compliance with the required import documents. Verify that all required import licenses, permits customs declarations, and other regulatory documents are obtained and properly submitted. Any
+discrepancies or incomplete documentation can lead to delays, penalties, or even the rejection of goods.
+6. Insurance Coverage: Consider obtaining appropriate insurance coverage for import transactions. Cargo insurance can protect against loss, damage, or theft of goods during transit.It is also advisable to consider credit insurance or trade credit insurance to safeguard against non-payment or payment delays by foreign buyers.
+7. Supplier Relationship Management: Foster strong and reliable relationships with foreign suppliers or exporters. Regular communication, trust-building, and transparency can help establish long-term partnerships and mitigate risks. Engage in open dialogue and address any concerns or issues promptly to avoid misunderstandings or disputes.
+8. Stay In formed: Stay updated on international trade regulations, trade policies, tariffs, sanctions and political developments that may impact import finance. Regulary monitor market trends,exchange rate fluctuations, and global economic conditions to assess potential risks and adjust import strategies accordingly.
+9. Professional Assistance: Consider seeking professional advice and assistance from trade finance experts, legal counsel, or international trade consultants. They can provide valuable  insights, guidance, and supporting managing import risks, ensuring compliance, and optimizing import finance operations.
+
+By implementing these suggestions and precautionary measures, importers can reduce risks, protect their financial interests, and enhance the overall efficiency and security of their import finance activities.
+Identify the risk associated with loans granted to the importers against Trust Receipt and how these risks can be mitigated.
+However, in practice, Trust Receipt does not secure the position of the bank to a significant extent.
+The risks are that-
+1. The importer may re-pledge the goods with another bank or person.
+2. The importer may sell the goods without remitting the amount into the bank:
+3. In case of insolvency of the importer, it would be difficult to trace the proceeds of the goods.
+4. Another hazard is if the LTR have made against the restriction items have imported subject to obtaining special permission from the concern Government authorities like drugs, obscene and subversive literatures, firearms, ammunitions and antiquated items.
+
+Steps taken to mitigate the risks against LTR
+1. The bank may not deals with unknown or unrenowned importers in case of large amount of transaction
+2. The bank not to allow the finance in case of shortage of importer's experience, reliability and reputation
+3. The bank may not grant a LTR in case insolvent parties
+4. The bank may not allow a LTR in case restriction items by the Government.
+
+Briefly discuss the advantages and disadvantages of financing imports under LTR
+Advantages/ Importance of LTR:
+A trust receipt is typically used when a bank has lent money for, say, import of goods, but the goods have to be released to the importer so they can be sold or prepared for sale.
+But until the loan has been repaid, the goods still belong to the bank. The trust receipt evidences the bank's ownership of the goods. The borrower agrees to put the goods at the disposal of the bank if required to do so, to keep them separate from other goods etc. so they can be identified.
+Trust receipts normally have a time limit associated with them. This is the time by which the borrower's business cycle can be expected to have generated the money to repay the loan.
+It has to be said that the security provided by a trust receipt is rather poor. As its name suggests, the borrower is trusted not to violate the terms of the agreement.
+There are frequent cases of banks finding that they can't actually recover their collateral.
+Disadvantages of LTR:
+One disadvantage of trust receipt financing is the requirement that a trust receipt be issued for specific goods. For example, if the security is autos in a dealer's inventory, the trust receipts must indicate the cars by registration number, In order to validate its trust receipts, the lending institution must send someone to the borrower's premises periodically to see that the auto numbers are correctly Listed because auto dealers who are in financial difficulty have been known to sell cars backing trust receipts and then use the funds obtained for other operations rather than to repay the bank. Problems are compounded if the borrower has a number of different locations, especially if they are separated geographically from the lender. To offset these inconveniences, warehousing has come into wide use as a method of securing loans with inventory.
+
+
+QQ. Distinguish between LIM & LATR [BDE-93rd 94th]
+• LIM: This type of finance is offered to the importer to finance their needs for meeting the cost including freight, insurance, and customs and excise duty payable on the imported merchandise. The lending bank mostly pledges the imported goods. The merchandise is released for the use of the importer (borrower) upon repayment of the bank's finance and charges either fully or partially, on production of the Delivery Order issued by the banker in favor of the borrower.)
+• LTR/LATR: Trust Receipt (TR) is a type of short-term import loan to provide the buyer with financing to settle goods imported under Letter of Credit where title of goods is held by the bank.Under a TR arrangement, the Bank retains title to the goods but allows the buyer to take possession of the goods on trust for resale before paying the Bank on TR due date. TR financing is applicable to goods imported under documentary credit.
+Difference 
+LIM
+LATR
+Definition
+
+
+A loan facility provided by a bank or financial institution against the security of imported merchandise or goods.
+A loan facility provided by a bank or a  financial  institution against the security of a trust receipt,which represents goods or merchandise held in trust for lender.
+Elaboration
+Loan Against Imported Merchandize
+Loan Against Trust receipt.
+Security
+The imported merchandise itself serves as security for the loan.
+The trust receipt, which is a document of title representing the goods, serves as security for the loan.
+Timing
+The loan is typically provided before the release of the imported merchandise from customs or port Authorities.
+It is also called Pre-delivery Financing
+The loan is provided after the release of the imported merchandise and upon the creation off a trust receipt.
+It is also called Post--delivery Financing
+Purpose 
+The loan helps the importer finance the purchase of goods and cover associated costs, such as customs duties and shipping charges.
+The loan allows the borrower to take possession of the goods and sell them while holding them in trust for the lender.
+Control over
+The bank retains control over the imported merchandise until the loan is repaid.
+The borrower has control over the goods but holds them in trust for the lender until the loan is repaid.
+Repayment 
+The loan is typically repaid from the proceeds generated by the sale of the imported merchandise.
+The loan is repaid from the borrower's general funds or other sources, not necessarily tied to the specific goods mentioned in the trust receipt.
+Risk
+The bank has a higher level of control
+and security as the merchandise serves as collateral for the loan.
+The bank bears a higher level of risk as the goods are released to the borrower, and the loan is not directly tied to the specific goods represented by the trust receipt.
+Documentation 
+The loan is typically supported by various documents, including invoices, bill of lading, customs documents, and insurance policies related to the imported merchandise
+The loan is supported by the trust receipt, which is a legally binding document specifying the terms of the loan and the goods held in trust.
+
+
+Q-2. What is the difference between UPAS & Usance LC? BDE-94th
+The difference between UPAS LC and Usance LC are enumerated as follows:
+
+1.UPAS::Usance Pay at Sight (UPAS) is a financial  arrangement in international trade that combines the Characteristics of a usance letter of credit (LC) and a pay-at-sight letter of credit . It is a specialized form
+of  Letter of credit that allows for deferred  payment while also incorporating the concept of a sight LC.This structure Is designed to provide flexibility to both thc buyer and the seller  in the transaction.
+Usance Letter of Credit(Usance LC):In a traditional usance letter of credit, the payment is not made at sight (immediately) but is deferred to a later date. The buyer,under the terms of the LC, agrees to make payment at a specified future date, which is Known as the usance period.
+
+2. In case of UPAS agreement the beneficiary will get benefit at sight, and in case of Usance LC the beneficiary will get benefit after a certain period of time.
+
+3. In case of UPAS LC the bank will make payment at sight by creating a loan against Importer but in case    of Usance LC the payment will be made after a certain period of time.
+
+4. Usance LC is the suppliers' credit and UPAS LC is the buyers' credit.
+
+5. Usance LC payments is an UCP defined payment type under LC. Whereas UPAS is a payment arrangement used in some asian market between banks and applicant wherein the banks discount and pays to beneficiary as per terms mentioned in LC irrespective of applicant paying in usance.UPAS (Usance Paid at Sight) is not defined in UCP.
+
+5. UPAS LC is usually a usance/deferred LC. But applicant arrange payment at sight through a party other than issuing entity which is called buyer's credit. The payment indication narrated on this LC. So UPAS is a hybrid LC which is deferred in nature nature but beneficiary get payment at sight.
+
+Q. Distinguish between Foreign Documentary Bill of Purchase (FDBP) and Foreign Documentary Bill of Collection (FDBC). BDE-95th
+
+Foreign Documentary Bill of Collection (FDBC):
+Exporter can collect the bill through negotiating bank on the basic collection, exporter in this case submit all the documents to the negotiating bank for collection of bill from inspector. The exporter will get money only when the issuing bank gives payment. In this connection bank will scrutinize all the documents as per terms and conditions mentioned in L/C.
+Foreign Documentary Bill of Purchase (FDBP):
+When the exporter sale all the export documents to the negotiating bank then it is known as FDBP. In this case exporter will submit all the documents to the bank. The bank gives 60%-80% amount to the exporter against total L/C value.
+Here are seven distinguishing features between Foreign Documentary Bill of Purchase (FDBP) and Foreign Documentary Bill of Collection (FDBC):
+
+1. Financing Nature: FDBP is a credit facility where the bank provides financing to the importer.
+whereas FDBC is a payment arrangement where the bank does not provide any financing to the importer.
+
+2. Payment Responsibility: In FDBP, the bank makes the payment to the exporter on behalf of the importer, while in FDBC, the importer is directly responsible for making the payment to the collecting bank.
+
+3. Risk Allocation: In FDBP, the bank assumes the risk of non-payment by the importer, whereas in FDBC, the risk of non-payment rests with the exporter.
+
+4. Ownership of Documents: Under FDBP, the bank takes ownership of the export documents until the importer repays the loan. In contrast, under FDBC, the exporter retains control of the shipping documents until payment is received.
+
+5. Financing Terms: FDBP involves specific financing terms, such as interest rates, repayment periods, and other conditions, which are agreed upon between the bank and the importer. FDBC does not involve any financing terms since no funds are provided by the bank.
+
+6. Payment Timing: In FDBP, the bank makes the payment to the exporter upon presentation of the shipping documents. In FDBC, payment is made by the importer directly to the collecting bank before obtaining the shipping documents.
+
+7. Legal Actions: In case of non-payment in FDBP, the bank can take legal action against the importer to recover the outstanding amount. In FDBC, if the importer fails to make the payment, the exporter may withhold the shipping documents, preventing the importation of the goods.
+
+These distinguishing features highlight the differences between FDBP and FDBC in terms of financing nature, payment responsibility, risk allocation, ownership of documents, financing terms,payment timing, and legal actions. It's important for exporters and importers to understand these differences to choose the appropriate payment method that suits their specific trade transactions.
