@@ -5,18 +5,85 @@
     "categoryname": "101.Monetary and Financial System(MAFS)",
     "docUel": "https://drive.google.com/file/d/1IuP3Glvo4FjAd26g2n_7Ef_nmRQVzPqw/view?usp=drivesdk"
 },
-   {
+{
     "categoryId": "jaibb_reading_materials",
     "categoryname": "102.Basic Accounting(BA)",
     "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
 }, 
+{
+    "categoryId": "jaibb_reading_materials",
+    "categoryname": "103.Basic Accounting(BA)",
+    "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
+}, 
+{
+    "categoryId": "jaibb_reading_materials",
+    "categoryname": "104.Basic Accounting(BA)",
+    "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
+},
+{
+    "categoryId": "jaibb_reading_materials",
+    "categoryname": "105.Basic Accounting(BA)",
+    "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
+}, 
+{
+    "categoryId": "jaibb_reading_materials",
+    "categoryname": "106.Basic Accounting(BA)",
+    "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
+}, 
+    
   {
     "categoryId": "aibb_reading_materials",
-    "categoryname": "jaibb_reading_materiaks of Economics (POE)",
+    "categoryname": "201.jaibb_reading_materiaks of Economics (POE)",
     "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
-}, {
+},
+{
     "categoryId": "aibb_reading_materials",
-    "categoryname": "204.Laws and Practice of General Banking (LPGB)",
+    "categoryname": "202.jaibb_reading_materiaks of Economics (POE)",
+    "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
+},
+{
+    "categoryId": "aibb_reading_materials",
+    "categoryname": "203.jaibb_reading_materiaks of Economics (POE)",
+    "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
+},
+{
+    "categoryId": "aibb_reading_materials",
+    "categoryname": "204.jaibb_reading_materiaks of Economics (POE)",
+    "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
+},
+ {
+    "categoryId": "aibb_reading_materials",
+    "categoryname": "205.jaibb_reading_materiaks of Economics (POE)",
+    "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
+},   
+{
+    "categoryId": "aibb_reading_materials",
+    "categoryname": "206.jaibb_reading_materiaks of Economics (POE)",
+    "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
+},   
+{
+    "categoryId": "aibb_reading_materials",
+    "categoryname": "207.jaibb_reading_materiaks of Economics (POE)",
+    "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
+},   
+{
+    "categoryId": "aibb_reading_materials",
+    "categoryname": "208.jaibb_reading_materiaks of Economics (POE)",
+    "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
+},    
+{
+    "categoryId": "aibb_reading_materials",
+    "categoryname": "209.jaibb_reading_materiaks of Economics (POE)",
+    "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
+},   
+{
+    "categoryId": "aibb_reading_materials",
+    "categoryname": "210.jaibb_reading_materiaks of Economics (POE)",
+    "docUel": "https://drive.google.com/file/d/19rKXCgSTUobJ5bGLw45gjgrzpJlGqHMs/view?usp=drivesdk"
+},    
+{
+    "categoryId": "aibb_reading_materials",
+    "categoryname": "211.Laws and Practice of General Banking (LPGB)",
     "docUel": "https://drive.google.com/file/d/1Yr51dZzDxIRc_F_2nraIDYD9DGm3SqAk/view?usp=drivesdk"
 }
 ]
