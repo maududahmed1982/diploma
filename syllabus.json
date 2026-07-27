@@ -35,17 +35,18 @@
  
 {
     "categoryId": "aibb_syllabus",
-    "categoryname": "201.https://drive.google.com/file/d/1PIi4nDZxqxJ65JeM-NzJ-NrkFr58SaDT/view?usp=drivesdk"
+    "categoryname": "201.Risk Management in Financial Institutions(RMFI)"
+    "docUel": "https://drive.google.com/file/d/1VFRjtgjsMVpHrM4-Gxxv77_Nj3U6dXmQ/view?usp=drivesdk"
 },
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "202.Credit Operations and Management (COM)",
-    "docUel": "https://drive.google.com/file/d/1PIrMSbNwTHvIbGgNf1lIbQz8WKoW5xnA/view?usp=drivesdk"
+    "docUel": "https://drive.google.com/file/d/1VGKHA0opXz9VnRnu7Qb-8h_KleUzzT6L/view?usp=drivesdk"
 },
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "203.Trade Finance and Foreign Exchange (TFFE)",
-    "docUel": "https://drive.google.com/file/d/1SBLjl-LRW6qP3erCjcawsrGcUlo5rZIn/view?usp=drivesdk"
+    "docUel": "https://drive.google.com/file/d/1VGuKGQxJkUL5XqNY4_tLs1RADk-PJKiC/view?usp=drivesdk"
 },
 {
     "categoryId": "aibb_syllabus",
@@ -60,8 +61,7 @@
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "206.Accounting for Financial Institutions (AFI)",
-    "docUel": "https://drive.google.com/file/d/1PQOwRolVjvAOqNiDvtAnzsDZvNr5S9Vc/view?usp=drivesdk"
-},
+    "docUel": "https://drive.google.com/file/d/1VMtWid1ROGAjy4QkDQ3z6Us5WJfVFkRP/view?usp=drivesdk},
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "207.Financial Crime and Compliance (FCC)",
@@ -75,17 +75,16 @@
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "209.Management Accounting (MA)",
-    "docUel": "https://drive.google.com/file/d/1PfCqLhT1BgrSZkntljAP2bXPNoTiPree/view?usp=drivesdk"
-},
+    "docUel": "67788"
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "210.Marketing and Branding in Financial Services (MBFS)",
-    "docUel": "https://drive.google.com/file/d/1Pc9w2nxQ-KsOI1WF-748PWymLJkZ3r6c/view?usp=drivesdk"
+    "docUel":"dk"
 },
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "211.Sustainable Finance (SF)",
-    "docUel": "https://drive.google.com/file/d/1PYKxFnMEOcKxjTiTvIGjymJn6SZk8XkP/view?usp=drivesdk"
+    "docUel": "drivesdk"
 },
 {
     "categoryId": "aibb_syllabus",
