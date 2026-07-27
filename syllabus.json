@@ -61,16 +61,17 @@
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "206.Accounting for Financial Institutions (AFI)",
-    "docUel": "https://drive.google.com/file/d/1VMtWid1ROGAjy4QkDQ3z6Us5WJfVFkRP/view?usp=drivesdk},
+    "docUel": "drivesdk"
+},
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "207.Financial Crime and Compliance (FCC)",
-    "docUel": "https://drive.google.com/file/d/1PfFMq6b7yrdTbreiiGmim_udtC4xAPtA/view?usp=drivesdk"
+    "docUel": "drivesdk"
 },
 {
     "categoryId": "aibb_syllabus",
     "categoryname": "208.Agriculture & Microfinance(AM)",
-    "docUel": "https://drive.google.com/file/d/1PSP1YtOKhWewuddCTE9Y75YJWhRDStRI/view?usp=drivesdk"
+    "docUel": "/view?usp=drivesdk"
 },
 {
     "categoryId": "aibb_syllabus",
