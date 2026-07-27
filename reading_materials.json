@@ -1,99 +1,96 @@
 
 [
 {
-    "categoryId": "jaibb_reading_materials",
-    "categoryname": "101.Monetary and Financial System(MAFS)",
-    "docUel": "https://drive.google.com/file/d/1IuP3Glvo4FjAd26g2n_7Ef_nmRQVzPqw/view?usp=drivesdk"
+"categoryId": "jaibb_reading_materials",
+"categoryname": "101.Monetary and Financial System(MAFS)",
+"docUel": "https://drive.google.com/file/d/1V6NpUeQQ697oVBJORrM9iXpLz1JOstlQ/view?usp=drivesdk"
 },
 {
-    "categoryId": "jaibb_reading_materials",
-    "categoryname": "102.Basic Accounting(BA)",
-    "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
-}, 
-{
-    "categoryId": "jaibb_reading_materials",
-    "categoryname": "103.Basic Accounting(BA)",
-    "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
-}, 
-{
-    "categoryId": "jaibb_reading_materials",
-    "categoryname": "104.Basic Accounting(BA)",
-    "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
+"categoryId": "jaibb_reading_materials",
+"categoryname": "102.Basic Accounting(BA)",
+"docUel": "https://drive.google.com/file/d/1ZzMmTjz4ijjvEdbvPHZDP-Jl8CI_tQHL/view?usp=drivesdk"
 },
 {
-    "categoryId": "jaibb_reading_materials",
-    "categoryname": "105.Basic Accounting(BA)",
-    "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
-}, 
+"categoryId": "jaibb_reading_materials",
+"categoryname": "103.Principles of Economics (POE)",
+"docUel": "https://drive.google.com/file/d/1VDZ254JTLtATzJ3KAAGnKuOXBdrd30G8/view?usp=drivesdk"
+},
 {
-    "categoryId": "jaibb_reading_materials",
-    "categoryname": "106.Basic Accounting(BA)",
-    "docUel": "https://drive.google.com/file/d/1cFktQdah5dvy-RzLa7YFrufCt6bji0Mu/view?usp=drivesdk"
-}, 
-    
-  {
-"categoryId": "aibb_syllabus",
+"categoryId": "jaibb_reading_materials",
+"categoryname": "104.Laws and Practice of General Banking (LPGB",
+"docUel": "https://drive.google.com/file/d/1V98dme6oCAb-A1OLaxHIgIX2W_ojGDIs/view?usp=drivesdk"
+},
+{
+"categoryId": "jaibb_reading_materials",
+"categoryname": "105.Business Communication in Financial Institutions (BCFI)",
+"docUel": "https://drive.google.com/file/d/1VCiuYqNgqsLTykDa99LHvPWtgSKawa1m/view?usp=drivesdk"
+},
+ {
+"categoryId": "jaibb_reading_materials",
+"categoryname": "106.Organization & Management (OM):",
+"docUel": "https://drive.google.com/file/d/1V9y1n8O82WCvYP0IRou2SxjTF-RPuNhs/view?usp=drivesdk"
+},
+
+
+
+{
+"categoryId": "aibb_reading_materials",
 "categoryname": "201.Risk Management in Financial Institutions(RMFI)"
 "docUel": "https://drive.google.com/file/d/1VFRjtgjsMVpHrM4-Gxxv77_Nj3U6dXmQ/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
+"categoryId": "aibb_reading_materials",
 "categoryname": "202.Credit Operations and Management (COM)",
 "docUel": "https://drive.google.com/file/d/1VGKHA0opXz9VnRnu7Qb-8h_KleUzzT6L/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
+"categoryId": "aibb_reading_materials",
 "categoryname": "203.Trade Finance and Foreign Exchange (TFFE)",
 "docUel": "https://drive.google.com/file/d/1VGuKGQxJkUL5XqNY4_tLs1RADk-PJKiC/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
+"categoryId": "aibb_reading_materials",
 "categoryname": "204.Information and Communication Technology in Financial Institutions (ICTFI)",
-"docUel": "https://drive.google.com/file/d/1PKsiPuj5yHTl5fzqYxS0qolsQFqzWow7/view?usp=drivesdk"
+"docUel": "https://drive.google.com/file/d/1VIvFisXObQbPgYX_DjMyLg4jI_ekBFN5/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
-"categoryname": "205.Treasury Management in Financial Institutions (TMFI)",
-"docUel": "https://drive.google.com/file/d/1PLH_AmEVpUB944TU1DGSXfZl4U3KvRQh/view?usp=drivesdk"
+"categoryId": "aibb_reading_materials",
+"categoryname": "205.Governance in Financial Institutions (GFI)",
+"docUel": "https://drive.google.com/file/d/125zFsqWk8tZ_qOjkHZhRB3928jz_VGTB/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
-"categoryname": "206.Accounting for Financial Institutions (AFI)",
-"docUel": "drivesdk"
+"categoryId": "aibb_reading_materials",
+"categoryname": "206.Treasury Management in Financial Institutions (TMFI)",
+"docUel": "https://drive.google.com/file/d/1VMtWid1ROGAjy4QkDQ3z6Us5WJfVFkRP/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
+"categoryId": "aibb_reading_materials",
 "categoryname": "207.Financial Crime and Compliance (FCC)",
-"docUel": "drivesdk"
+"docUel": "https://drive.google.com/file/d/1VQy4uFuyQWmGq1uuI9jjorgyYbKn249h/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
+"categoryId": "aibb_reading_materials",
 "categoryname": "208.Agriculture & Microfinance(AM)",
-"docUel": "/view?usp=drivesdk"
+"docUel": "https://drive.google.com/file/d/1VUQhyz0zanBqo35QUCqL8tXfNqHFUPU3/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
-"categoryname": "209.Management Accounting (MA)",
-"docUel": "67788"
+"categoryId": "aibb_reading_materials",
+"categoryname": "209.Marketing and Branding in Financial Services (MBFS)",
+"docUel":"https://drive.google.com/file/d/1VejSw0yIoGLIn0y_wSJx_0cCC_Zddh-Y/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
-"categoryname": "210.Marketing and Branding in Financial Services (MBFS)",
-"docUel":"dk"
+"categoryId": "aibb_reading_materials",
+"categoryname": "210.Sustainable Finance (SF)",
+"docUel": "https://drive.google.com/file/d/1VgWIcSLPFWwafjB-Zv2ZVKo3CyoP40sy/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
-"categoryname": "211.Sustainable Finance (SF)",
-"docUel": "drivesdk"
+"categoryId": "aibb_reading_materials",
+"categoryname": "211.Shariah Based Banking (SBB)",
+"docUel": "https://drive.google.com/file/d/1VgXmGxZSMNBt4Z01dfrHaaancSMX-LOb/view?usp=drivesdk"
 },
 {
-"categoryId": "aibb_syllabus",
-"categoryname": "212.Shariah Based Banking (SBB)",
-"docUel": "https://drive.google.com/file/d/1PZ458lRTo3a2Dg2ivNgD-Qyt1Vj7AWag/view?usp=drivesdk"
-},
-{
-"categoryId": "aibb_syllabus",
-"categoryname": "213.Investment Banking (IB)",
-"docUel": "https://drive.google.com/file/d/1PZIIVvTd5hqT34hjKIj65VK1jjfiieCC/view?usp=drivesdk"
+"categoryId": "aibb_reading_materials",
+"categoryname": "212.Investment Banking (IB)",
+"docUel": "https://drive.google.com/file/d/1Vi1jNXXbdNgbD3VUiBBpHSONAuzSCMK3/view?usp=drivesdk"
 }
-]
+ ]
