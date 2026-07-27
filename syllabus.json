@@ -1,101 +1,97 @@
 
 [
 {
-    "categoryId": "jaibb_syllabus",
-    "categoryname": "101.Monetary and Financial System(MAFS)",
-    "docUel": "https://drive.google.com/file/d/1P71xXXGX8qA9hPO5LrsJFe4x6TLUrcBO/view?usp=drivesdk"
-},
-   {
-    "categoryId": "jaibb_syllabus",
-    "categoryname": "102.Basic Accounting(BA)",
-    "docUel": "https://drive.google.com/file/d/1BB6wU2tk3ejL47pSxJe1c_tN58YBrwDN/view?usp=drivesdk"
-}, 
-  {
-    "categoryId": "jaibb_syllabus",
-    "categoryname": "103.Principles of Economics (POE)",
-    "docUel": "https://drive.google.com/file/d/1P7nRHVXDxz4CFV65ZeKYp6OE_Sonvyo8/view?usp=drivesdk"
-}, 
-  {
-    "categoryId": "jaibb_syllabus",
-    "categoryname": "104.Laws and Practice of General Banking (LPGB",
-    "docUel": "https://drive.google.com/file/d/1P8QZfr41yreq8YwLwTRF64tjh7hSwfR5/view?usp=drivesdk"
-}, 
-  {
-    "categoryId": "jaibb_syllabus",
-    "categoryname": "105.Business Communication in Financial Institutions (BCFI)",
-    "docUel": "https://drive.google.com/file/d/1PAEKMzmuNXny9ZOFNeoGzdy7lR-w2-Dx/view?usp=drivesdk"
-},   
-  {
-    "categoryId": "jaibb_syllabus",
-    "categoryname": "106.Organization & Management (OM):",
-    "docUel": "https://drive.google.com/file/d/1P8hMlgoQsddwa5fp8q8M1gX-hEq7KOtb/view?usp=drivesdk"
-}, 
-
-    
- 
-{
-    "categoryId": "aibb_syllabus",
-    "categoryname": "201.Risk Management in Financial Institutions(RMFI)"
-    "docUel": "https://drive.google.com/file/d/1VFRjtgjsMVpHrM4-Gxxv77_Nj3U6dXmQ/view?usp=drivesdk"
+"categoryId": "jaibb_syllabus",
+"categoryname": "101.Monetary and Financial System(MAFS)",
+"docUel": "https://drive.google.com/file/d/1P71xXXGX8qA9hPO5LrsJFe4x6TLUrcBO/view?usp=drivesdk"
 },
 {
-    "categoryId": "aibb_syllabus",
-    "categoryname": "202.Credit Operations and Management (COM)",
-    "docUel": "https://drive.google.com/file/d/1VGKHA0opXz9VnRnu7Qb-8h_KleUzzT6L/view?usp=drivesdk"
+"categoryId": "jaibb_syllabus",
+"categoryname": "102.Basic Accounting(BA)",
+"docUel": "https://drive.google.com/file/d/1BB6wU2tk3ejL47pSxJe1c_tN58YBrwDN/view?usp=drivesdk"
 },
 {
-    "categoryId": "aibb_syllabus",
-    "categoryname": "203.Trade Finance and Foreign Exchange (TFFE)",
-    "docUel": "https://drive.google.com/file/d/1VGuKGQxJkUL5XqNY4_tLs1RADk-PJKiC/view?usp=drivesdk"
+"categoryId": "jaibb_syllabus",
+"categoryname": "103.Principles of Economics (POE)",
+"docUel": "https://drive.google.com/file/d/1P7nRHVXDxz4CFV65ZeKYp6OE_Sonvyo8/view?usp=drivesdk"
 },
 {
-    "categoryId": "aibb_syllabus",
-    "categoryname": "204.Information and Communication Technology in Financial Institutions (ICTFI)",
-    "docUel": "https://drive.google.com/file/d/1PKsiPuj5yHTl5fzqYxS0qolsQFqzWow7/view?usp=drivesdk"
+"categoryId": "jaibb_syllabus",
+"categoryname": "104.Laws and Practice of General Banking (LPGB",
+"docUel": "https://drive.google.com/file/d/1P8QZfr41yreq8YwLwTRF64tjh7hSwfR5/view?usp=drivesdk"
 },
 {
-    "categoryId": "aibb_syllabus",
-    "categoryname": "205.Treasury Management in Financial Institutions (TMFI)",
-    "docUel": "https://drive.google.com/file/d/1PLH_AmEVpUB944TU1DGSXfZl4U3KvRQh/view?usp=drivesdk"
-},
-{
-    "categoryId": "aibb_syllabus",
-    "categoryname": "206.Accounting for Financial Institutions (AFI)",
-    "docUel": "drivesdk"
-},
-{
-    "categoryId": "aibb_syllabus",
-    "categoryname": "207.Financial Crime and Compliance (FCC)",
-    "docUel": "drivesdk"
-},
-{
-    "categoryId": "aibb_syllabus",
-    "categoryname": "208.Agriculture & Microfinance(AM)",
-    "docUel": "/view?usp=drivesdk"
-},
-{
-    "categoryId": "aibb_syllabus",
-    "categoryname": "209.Management Accounting (MA)",
-    "docUel": "67788"
-},
-{
-    "categoryId": "aibb_syllabus",
-    "categoryname": "210.Marketing and Branding in Financial Services (MBFS)",
-    "docUel":"dk"
-},
-{
-    "categoryId": "aibb_syllabus",
-    "categoryname": "211.Sustainable Finance (SF)",
-    "docUel": "drivesdk"
-},
-{
-    "categoryId": "aibb_syllabus",
-    "categoryname": "212.Shariah Based Banking (SBB)",
-    "docUel": "https://drive.google.com/file/d/1PZ458lRTo3a2Dg2ivNgD-Qyt1Vj7AWag/view?usp=drivesdk"
+"categoryId": "jaibb_syllabus",
+"categoryname": "105.Business Communication in Financial Institutions (BCFI)",
+"docUel": "https://drive.google.com/file/d/1PAEKMzmuNXny9ZOFNeoGzdy7lR-w2-Dx/view?usp=drivesdk"
 },
  {
-    "categoryId": "aibb_syllabus",
-    "categoryname": "213.Investment Banking (IB)",
-    "docUel": "https://drive.google.com/file/d/1PZIIVvTd5hqT34hjKIj65VK1jjfiieCC/view?usp=drivesdk"
-}   
-]
+"categoryId": "jaibb_syllabus",
+"categoryname": "106.Organization & Management (OM):",
+"docUel": "https://drive.google.com/file/d/1P8hMlgoQsddwa5fp8q8M1gX-hEq7KOtb/view?usp=drivesdk"
+},
+
+
+
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "201.Risk Management in Financial Institutions(RMFI)"
+"docUel": "https://drive.google.com/file/d/1PIi4nDZxqxJ65JeM-NzJ-NrkFr58SaDT/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "202.Credit Operations and Management (COM)",
+"docUel": "https://drive.google.com/file/d/1PIrMSbNwTHvIbGgNf1lIbQz8WKoW5xnA/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "203.Trade Finance and Foreign Exchange (TFFE)",
+"docUel": "https://drive.google.com/file/d/1SBLjl-LRW6qP3erCjcawsrGcUlo5rZIn/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "204.Information and Communication Technology in Financial Institutions (ICTFI)",
+"docUel": "https://drive.google.com/file/d/1PKsiPuj5yHTl5fzqYxS0qolsQFqzWow7/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "205.Governance in Financial Institutions (GFI)",
+"docUel": "https://drive.google.com/file/d/1L1jQQ2ISNw98QFA276k7v43FJ_brk_ZN/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "206.Treasury Management in Financial Institutions (TMFI)",
+"docUel": "https://drive.google.com/file/d/19TYVYyy133N7AwWWnrmwQgpQIwwn3XbD/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "207.Financial Crime and Compliance (FCC)",
+"docUel": "https://drive.google.com/file/d/1SZIJShRiRCNlbYOrY3zFbnIunHo_wNJ6/view?usp=drivesdk
+"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "208.Agriculture & Microfinance(AM)",
+"docUel": "https://drive.google.com/file/d/1T9ygY4cn3znmNaNiRbWkrjLmKKR4Oz_D/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "209.Marketing and Branding in Financial Services (MBFS)",
+"docUel":"https://drive.google.com/file/d/1gmOg4v9A0qXuxprHhU1LPZjBL0JNSG1J/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "210.Sustainable Finance (SF)",
+"docUel": "https://drive.google.com/file/d/1kKiTM-tEeT-Td8nJg3eY0TDDp4bxv1fq/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "211.Shariah Based Banking (SBB)",
+"docUel": "https://drive.google.com/file/d/1sScv4CEG647geNQeP93ay3frUZfgV-UD/view?usp=drivesdk"
+},
+{
+"categoryId": "aibb_syllabus",
+"categoryname": "212.Investment Banking (IB)",
+"docUel": "https://drive.google.com/file/d/1yPr01jwxSOhZY0SV-U-XtN3vtpGQx8RF/view?usp=drivesdk"
+}
+ ]
